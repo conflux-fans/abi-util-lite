@@ -1,5 +1,5 @@
 {
-  "name": "@conflux-dev/abi-util-lite",
+  "name": "abi-util-lite",
   "version": "0.1.0",
   "description": "A light impletation to parse abi string array to abi json",
   "scripts": {
