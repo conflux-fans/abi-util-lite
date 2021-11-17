@@ -1,0 +1,10 @@
+/dist
+/node_modules
+/coverage/
+/esm/
+/lib/
+/docs/tmp.md
+.git-bk
+.DS_Store
+.vscode
+/test/main.ts
